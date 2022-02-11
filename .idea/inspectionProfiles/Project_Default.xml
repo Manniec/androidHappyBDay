@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <option name="scopesOrder">
+      <list>
+        <option value="All Changed Files" />
+        <option value="Default Changelist" />
+        <option value="Open Files" />
+        <option value="Production" />
+        <option value="Project Files" />
+        <option value="Project Non-Source Files" />
+        <option value="Project Source Files" />
+        <option value="Scratches and Consoles" />
+        <option value="Tests" />
+      </list>
+    </option>
+    <inspection_tool class="HardCodedStringLiteral" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoreForAssertStatements" value="true" />
+      <option name="ignoreForExceptionConstructors" value="true" />
+      <option name="ignoreForSpecifiedExceptionConstructors" value="" />
+      <option name="ignoreForJUnitAsserts" value="true" />
+      <option name="ignoreForClassReferences" value="true" />
+      <option name="ignoreForPropertyKeyReferences" value="true" />
+      <option name="ignoreForNonAlpha" value="true" />
+      <option name="ignoreAssignedToConstants" value="false" />
+      <option name="ignoreToString" value="false" />
+      <option name="nonNlsCommentPattern" value="NON-NLS" />
+    </inspection_tool>
+  </profile>
+</component>
